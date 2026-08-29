@@ -13,6 +13,16 @@ Simulador de caixa eletrônico via linha de comando, com as opções:
 
 **Tecnologias:** Python (nativo, sem bibliotecas externas)
 
-**Como executar:**
-```bash
-python caixa_eletronico.py
+**Como executar:** `python caixa_eletronico.py`
+
+## 🎯 Objetivo
+
+Este repositório reúne exercícios práticos de lógica de programação, estruturas condicionais, laços de repetição e outros fundamentos de Python, como parte da minha jornada de estudos para back end.
+
+## 🛠️ Tecnologias utilizadas
+
+- Python 3
+
+## 👤 Autor
+
+Feito por Yan de Araújo Lima — em processo de transição de carreira para back end.
